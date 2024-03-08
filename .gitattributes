@@ -1,2 +1,3 @@
-*.aspx linguist-detectable=true
+*.aspx.cs linguist-detectable=true
 *.csharp linguist-detectable=false
+*.cs linguist-detectable=false
